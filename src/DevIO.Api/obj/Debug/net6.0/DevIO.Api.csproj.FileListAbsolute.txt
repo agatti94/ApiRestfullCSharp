@@ -71,3 +71,4 @@ D:\C#\ApiCompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Data.dll
 D:\C#\ApiCompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Data.pdb
 D:\C#\ApiCompleta\src\DevIO.Api\bin\Debug\net6.0\Humanizer.dll
 D:\C#\ApiCompleta\src\DevIO.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C#\ApiCompleta\src\DevIO.Api\bin\Debug\net6.0\DevIO.Api.staticwebassets.runtime.json
