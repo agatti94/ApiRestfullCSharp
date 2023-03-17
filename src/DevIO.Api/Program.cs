@@ -14,6 +14,9 @@ builder.Services.AddDbContext<MeuDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+
+builder.Services.AddApiConfig();
+
 //dotnet add package AutoMapper.Extensions.Microsoft.DependencyInjection
 
 //builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies()); or typeof(Program)
@@ -23,11 +26,7 @@ builder.Services.ResolveDependencies();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+app.UseApiConfig(app.Environment);
 
 app.UseHttpsRedirection();
 

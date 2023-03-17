@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X9w3O40JidHCDUF3wygxQ8uweBYTMYc4Xw+LWLpv5WppjN0gkJPw2LWcJskqFTQEJyBx7+3N/iBXG0N1whibiA==",
+  "dgSpecHash": "YMFOO1/bErMGhxRNH+UHsZP7l0jjAfsWkDmZ+dr9dJqiHo6ql+Xis1dpvukDFkxBCGc2fo7yIxqjBFTeZ0XTLQ==",
   "success": true,
-  "projectFilePath": "D:\\C#\\ApiCompleta\\src\\DevIO.Api\\DevIO.Api.csproj",
+  "projectFilePath": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\DevIO.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arthu\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\arthu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

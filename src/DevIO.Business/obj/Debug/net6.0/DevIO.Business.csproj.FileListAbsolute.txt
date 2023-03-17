@@ -10,3 +10,15 @@ D:\C#\ApiCompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.dll
 D:\C#\ApiCompleta\src\DevIO.Business\obj\Debug\net6.0\refint\DevIO.Business.dll
 D:\C#\ApiCompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.pdb
 D:\C#\ApiCompleta\src\DevIO.Business\obj\Debug\net6.0\ref\DevIO.Business.dll
+D:\CSharp\ApiCompleta\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.deps.json
+D:\CSharp\ApiCompleta\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.dll
+D:\CSharp\ApiCompleta\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.pdb
+D:\CSharp\ApiCompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.AssemblyReference.cache
+D:\CSharp\ApiCompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\ApiCompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfoInputs.cache
+D:\CSharp\ApiCompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfo.cs
+D:\CSharp\ApiCompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.CoreCompileInputs.cache
+D:\CSharp\ApiCompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.dll
+D:\CSharp\ApiCompleta\src\DevIO.Business\obj\Debug\net6.0\refint\DevIO.Business.dll
+D:\CSharp\ApiCompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.pdb
+D:\CSharp\ApiCompleta\src\DevIO.Business\obj\Debug\net6.0\ref\DevIO.Business.dll

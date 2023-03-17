@@ -84,7 +84,7 @@ namespace DevIO.Api.Controllers
 
             //pego o diretorio raiz que estou e combino para formar o path do arquivo
 
-            var filepath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/imagens", imgNome);
+            var filepath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/app/demo-webapi/src/assets", imgNome);
 
             if(System.IO.File.Exists(filepath))
             {

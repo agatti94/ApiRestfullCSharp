@@ -1,0 +1,209 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\.editorconfig",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\.editorconfig"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\.gitignore",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\.gitignore"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\README.md",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\README.md"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\angular.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\angular.json"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\protractor.conf.js",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\e2e\\protractor.conf.js"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\src\\app.e2e-spec.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\e2e\\src\\app.e2e-spec.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\src\\app.po.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\e2e\\src\\app.po.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\tsconfig.e2e.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\e2e\\tsconfig.e2e.json"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\package-lock.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\package-lock.json"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\package.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\package.json"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app-routing.module.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\app-routing.module.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\app.component.html"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\app.component.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.module.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\app.module.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\baseService.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\base\\baseService.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.html"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.html"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.html"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Fornecedor.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\models\\Fornecedor.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Produto.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\models\\Produto.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\services\\produtoService.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\services\\produtoService.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\login\\login.component.html"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\login\\login.component.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.html"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\user.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\user.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\userService.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\userService.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\63d6078d-9d1a-4815-84dd-1480f80ef422_Teste2.jpg",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\assets\\63d6078d-9d1a-4815-84dd-1480f80ef422_Teste2.jpg"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\8b345133-cee3-4661-adcc-fabe9dfee3ab_produto-teste.jpg",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\assets\\8b345133-cee3-4661-adcc-fabe9dfee3ab_produto-teste.jpg"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\browserslist",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\environments\\environment.prod.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\environments\\environment.prod.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\environments\\environment.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\environments\\environment.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\favicon.ico",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\favicon.ico"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\index.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\index.html"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\karma.conf.js",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\karma.conf.js"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\main.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\main.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\polyfills.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\polyfills.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\styles.css",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\styles.css"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\test.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\test.ts"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tsconfig.app.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\tsconfig.app.json"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tsconfig.spec.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\tsconfig.spec.json"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tslint.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\tslint.json"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\tsconfig.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\tsconfig.json"
+    },
+    {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\tslint.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\tslint.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DevIO.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DevIO.Api.props",
+      "PackagePath": "build\\DevIO.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DevIO.Api.props",
+      "PackagePath": "buildMultiTargeting\\DevIO.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DevIO.Api.props",
+      "PackagePath": "buildTransitive\\DevIO.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
