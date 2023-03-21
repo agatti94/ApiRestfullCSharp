@@ -10,8 +10,6 @@ namespace DevIO.Api.Configuration
         {
             services.AddControllers();
 
-            
-
             services.Configure<ApiBehaviorOptions>(options =>
             {
                 options.SuppressModelStateInvalidFilter = true;
@@ -53,6 +51,7 @@ namespace DevIO.Api.Configuration
                 app.UseCors("Development"); // Usar apenas nas demos => Configuração Ideal: Production
                 app.UseHsts();
             }
+
 
             app.UseHttpsRedirection();
 

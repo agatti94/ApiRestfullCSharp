@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\DevIO.Api.csproj": {}
+    "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\DevIO.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\DevIO.Api.csproj": {
+    "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\DevIO.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\DevIO.Api.csproj",
+        "projectUniqueName": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\DevIO.Api.csproj",
         "projectName": "DevIO.Api",
-        "projectPath": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\DevIO.Api.csproj",
+        "projectPath": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\DevIO.Api.csproj",
         "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\obj\\",
+        "outputPath": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Business\\DevIO.Business.csproj": {
-                "projectPath": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Business\\DevIO.Business.csproj"
+              "D:\\CSharp\\ApiCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+                "projectPath": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
               },
-              "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Data\\DevIO.Data.csproj": {
-                "projectPath": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Data\\DevIO.Data.csproj"
+              "D:\\CSharp\\ApiCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
+                "projectPath": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Data\\DevIO.Data.csproj"
               }
             }
           }
@@ -85,18 +86,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Business\\DevIO.Business.csproj": {
+    "D:\\CSharp\\ApiCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectPath": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
         "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Business\\obj\\",
+        "outputPath": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -111,6 +112,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -150,18 +152,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Data\\DevIO.Data.csproj": {
+    "D:\\CSharp\\ApiCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "projectUniqueName": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
         "projectName": "DevIO.Data",
-        "projectPath": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "projectPath": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
         "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Data\\obj\\",
+        "outputPath": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -176,14 +178,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Business\\DevIO.Business.csproj": {
-                "projectPath": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Business\\DevIO.Business.csproj"
+              "D:\\CSharp\\ApiCompleta\\src\\DevIO.Business\\DevIO.Business.csproj": {
+                "projectPath": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Business\\DevIO.Business.csproj"
               }
             }
           }
@@ -233,7 +236,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

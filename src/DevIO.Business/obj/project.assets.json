@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Business\\DevIO.Business.csproj",
+      "projectUniqueName": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
       "projectName": "DevIO.Business",
-      "projectPath": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Business\\DevIO.Business.csproj",
+      "projectPath": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
       "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Business\\obj\\",
+      "outputPath": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -71,6 +71,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -110,7 +111,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
