@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f6rV+p21/JJYorJD/gx6MbrcGUOHY/OQ2xU1Sy/dALc=",
+  "Hash": "/Jsj5CdSxblw7rV+zDaDm2+sSYplzY/PfAIReO5gEsc=",
   "Source": "DevIO.Api",
   "BasePath": "_content/DevIO.Api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "DevIO.Api\\wwwroot",
       "Source": "DevIO.Api",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\.editorconfig",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\.editorconfig",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/.editorconfig",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\.editorconfig"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\.gitignore",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\.gitignore",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/.gitignore",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\.gitignore"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\angular.json",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\angular.json",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/angular.json",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\angular.json"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\protractor.conf.js",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\protractor.conf.js",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/e2e/protractor.conf.js",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\e2e\\protractor.conf.js"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\src\\app.e2e-spec.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\src\\app.e2e-spec.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/e2e/src/app.e2e-spec.ts",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\e2e\\src\\app.e2e-spec.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\src\\app.po.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\src\\app.po.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/e2e/src/app.po.ts",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\e2e\\src\\app.po.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\tsconfig.e2e.json",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\tsconfig.e2e.json",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/e2e/tsconfig.e2e.json",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\e2e\\tsconfig.e2e.json"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\package.json",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\package.json",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/package.json",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\package.json"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\package-lock.json",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\package-lock.json",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/package-lock.json",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\package-lock.json"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\README.md",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\README.md",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/README.md",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\README.md"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.component.html",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.component.html",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/app.component.html",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\app.component.html"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.component.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.component.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/app.component.ts",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\app.component.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.module.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.module.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/app.module.ts",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\app.module.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app-routing.module.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app-routing.module.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/app-routing.module.ts",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\app-routing.module.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\baseService.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\baseService.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/base/baseService.ts",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\base\\baseService.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.html",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.html",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/base/menu/menu.component.html",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.html"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/base/menu/menu.component.ts",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.html",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.html",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/produtos/cadastro/cadastro.component.html",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.html"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/produtos/cadastro/cadastro.component.ts",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.html",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.html",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/produtos/lista/lista.component.html",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.html"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/produtos/lista/lista.component.ts",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Fornecedor.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Fornecedor.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/produtos/models/Fornecedor.ts",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Fornecedor.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Produto.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Produto.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/produtos/models/Produto.ts",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Produto.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\services\\produtoService.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\services\\produtoService.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/produtos/services/produtoService.ts",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\produtos\\services\\produtoService.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.html",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.html",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/user/login/login.component.html",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.html"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/user/login/login.component.ts",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.html",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.html",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/user/menu/menu.user.component.html",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.html"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/user/menu/menu.user.component.ts",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\user.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\user.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/user/user.ts",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\user\\user.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\userService.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\userService.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/app/user/userService.ts",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\user\\userService.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\63d6078d-9d1a-4815-84dd-1480f80ef422_Teste2.jpg",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\63d6078d-9d1a-4815-84dd-1480f80ef422_Teste2.jpg",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/assets/63d6078d-9d1a-4815-84dd-1480f80ef422_Teste2.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\assets\\63d6078d-9d1a-4815-84dd-1480f80ef422_Teste2.jpg"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\8b345133-cee3-4661-adcc-fabe9dfee3ab_produto-teste.jpg",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\8b345133-cee3-4661-adcc-fabe9dfee3ab_produto-teste.jpg",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/assets/8b345133-cee3-4661-adcc-fabe9dfee3ab_produto-teste.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\assets\\8b345133-cee3-4661-adcc-fabe9dfee3ab_produto-teste.jpg"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\browserslist",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\browserslist",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/browserslist",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\browserslist"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\environments\\environment.prod.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\environments\\environment.prod.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/environments/environment.prod.ts",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\environments\\environment.prod.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\environments\\environment.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\environments\\environment.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/environments/environment.ts",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\environments\\environment.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\favicon.ico",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\favicon.ico",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/favicon.ico",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\favicon.ico"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\index.html",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\index.html",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/index.html",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\index.html"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\karma.conf.js",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\karma.conf.js",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/karma.conf.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\karma.conf.js"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\main.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\main.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/main.ts",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\main.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\polyfills.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\polyfills.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/polyfills.ts",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\polyfills.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\styles.css",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\styles.css",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/styles.css",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\styles.css"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\test.ts",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\test.ts",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/test.ts",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\test.ts"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tsconfig.app.json",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tsconfig.app.json",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/tsconfig.app.json",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\tsconfig.app.json"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tsconfig.spec.json",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tsconfig.spec.json",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/tsconfig.spec.json",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\tsconfig.spec.json"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tslint.json",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tslint.json",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/src/tslint.json",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\tslint.json"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\tsconfig.json",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\tsconfig.json",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/tsconfig.json",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\tsconfig.json"
     },
     {
-      "Identity": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\tslint.json",
+      "Identity": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\tslint.json",
       "SourceId": "DevIO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/DevIO.Api",
       "RelativePath": "app/demo-webapi/tslint.json",
       "AssetKind": "All",

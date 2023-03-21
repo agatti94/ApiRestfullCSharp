@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DbPokKYA8gmzPWyDoL7yMbEBc+e0OgL0BzhYmIRPl4f7bg/YoVmTknwvBMmJHHfiGyTMIrG8ZY8anGqmR2XyzA==",
+  "dgSpecHash": "bR57AWmDYZiWvMT45aOwE6FsXU66+w3BmCIL7olPY+DDk2iYpUpTj2PpXIdTK01QQ/FPvtJfDQA9M5O9UHFCBQ==",
   "success": true,
-  "projectFilePath": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
+  "projectFilePath": "C:\\Users\\arthu\\ProjetosCSharp\\ApiRestfullCSharp\\src\\DevIO.Data\\DevIO.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arthu\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
     "C:\\Users\\arthu\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

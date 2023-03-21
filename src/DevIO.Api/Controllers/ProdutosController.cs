@@ -69,6 +69,25 @@ namespace DevIO.Api.Controllers
             return CustomResponse(produtoViewModel);
         }
 
+        [HttpPost("Adicionar")]
+        public async Task<ActionResult<ProdutoViewModel>> Adicionar(ProdutoImagemViewModel produtoViewModel)
+        {
+            if (!ModelState.IsValid) return CustomResponse(ModelState);
+
+            var imgPrefixo = Guid.NewGuid() + "_";
+            if (!await UploadArquivoAlternativo(produtoViewModel.ImagemUpload, imgPrefixo))
+            {
+                return CustomResponse(ModelState);
+            }
+
+            produtoViewModel.Imagem = imgPrefixo + produtoViewModel.ImagemUpload.FileName;
+
+            await _produtoService.Adicionar(_mapper.Map<Produto>(produtoViewModel));
+
+            return CustomResponse(produtoViewModel);
+        }
+
+
         //recebe o arquivo em base64 e o nome da imagem
         private bool UploadArquivo(string arquivo, string imgNome)
         {
@@ -94,6 +113,30 @@ namespace DevIO.Api.Controllers
 
             //vou gerar o arquivo passando o filepath e a coleção de bytes
             System.IO.File.WriteAllBytes(filepath, imageDataByteArray);
+
+            return true;
+        }
+
+        private async Task<bool> UploadArquivoAlternativo(IFormFile arquivo, string imgPrefixo)
+        {
+            if (arquivo == null || arquivo.Length <= 0)
+            {
+                ModelState.AddModelError(string.Empty, "Forneçca uma imagem para este produto");
+                return false;
+            }
+
+            var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/app/demo-webapi/src/assets", imgPrefixo + arquivo.FileName);
+
+            if(System.IO.File.Exists(path))
+            {
+                ModelState.AddModelError(string.Empty, "Já existe um arquivo com este nome");
+                return false;
+            }
+
+            using(var stream = new FileStream(path, FileMode.Create))
+            {
+                await arquivo.CopyToAsync(stream);
+            }
 
             return true;
         }
