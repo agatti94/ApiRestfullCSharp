@@ -22,6 +22,7 @@ builder.Services.AddApiConfig();
 //builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies()); or typeof(Program)
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.ResolveDependencies();
+builder.Services.AddIdentityConfiguration(builder.Configuration);
 
 var app = builder.Build();
 

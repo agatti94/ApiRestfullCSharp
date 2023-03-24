@@ -129,6 +129,10 @@
       "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\assets\\8b345133-cee3-4661-adcc-fabe9dfee3ab_produto-teste.jpg"
     },
     {
+      "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\97462287-3d62-4966-ad2b-22613725ef38_WallPaper 1.jpg",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\assets\\97462287-3d62-4966-ad2b-22613725ef38_WallPaper 1.jpg"
+    },
+    {
       "Id": "D:\\CSharp\\ApiCompleta\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\browserslist",
       "PackagePath": "staticwebassets\\app\\demo-webapi\\src"
     },
